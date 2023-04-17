@@ -13,7 +13,7 @@
   NA
   
   ## Usage
-  - Video Link - (https://drive.google.com/file/d/1vQT1z73a_hdZudmqkdeD7edW5Oge2h4d/view)
+  - Video Link - https://drive.google.com/file/d/1vQT1z73a_hdZudmqkdeD7edW5Oge2h4d/view
   
 
   
